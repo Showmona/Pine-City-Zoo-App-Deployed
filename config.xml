@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.yourname.zooapp" version="1.0.0"
+        xmlns="http://www.w3.org/ns/widgets"
+        xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Pine City Zoo App</name>
+  <description>
+    A simple HTML and CSS Zoo App.
+  </description>
+  <author email="ramnarainshowmona@gmail.com">Showmona</author>
+  <content src="index.html" />
+  <preference name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <platform name="android" />
+</widget>
